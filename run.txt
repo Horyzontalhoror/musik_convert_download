@@ -1,0 +1,6 @@
+extrak cookie erlebih dahulu sebelum mendowload video di youtube
+gunakan extension browser 
+
+python -m venv venv
+python -m pip install -r requirements.txt
+python app.py
