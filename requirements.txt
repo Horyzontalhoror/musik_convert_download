@@ -7,3 +7,5 @@ idna==3.10
 colorama==0.4.6  # Opsional, hanya untuk tampilan CLI
 filelock==3.17.0  # Opsional, jika ada proses multi-threading
 PyYAML==6.0.2  # Opsional, jika menggunakan konfigurasi YAML
+customtkinter
+pytube==12.1.0  # Opsional, jika menggunakan pytube untuk download video
