@@ -1,0 +1,681 @@
+ERROR:root:Gagal mengunduh https://youtu.be/LJelMR8YtF8?si=arYt-CTdYPXgJ1Ju: [0;31mERROR:[0m [youtube] LJelMR8YtF8: Requested format is not available. Use --list-formats for a list of available formats
+ERROR:root:Gagal mengunduh https://youtu.be/LJelMR8YtF8?si=arYt-CTdYPXgJ1Ju: [0;31mERROR:[0m [youtube] LJelMR8YtF8: Requested format is not available. Use --list-formats for a list of available formats
+ERROR:root:Gagal mengunduh https://youtu.be/LJelMR8YtF8?si=arYt-CTdYPXgJ1Ju: Invalid format specification: Unexpected "("
+	614 {MP4 (1080p)}
+	                                                                         ^
+ERROR:root:Gagal mengunduh https://youtu.be/LJelMR8YtF8?si=arYt-CTdYPXgJ1Ju: Invalid format specification: Unexpected "("
+	233 {MP4 (Audio Only)}
+	                                                                         ^
+ERROR:root:Gagal mengunduh https://youtu.be/LJelMR8YtF8?si=arYt-CTdYPXgJ1Ju: Invalid format specification: Unexpected "("
+	251 {WEBM (Audio Only)}
+	                                          ^
+ERROR:root:Konversi gagal: Command '['ffmpeg\\bin\\ffmpeg.exe', '-i', 'C:/Users/AmaHory/Downloads/Music/fawlin - follow you anywhere (official lyric video).wav', '-vn', '-acodec', 'libmp3', 'C:/Users/AmaHory/Downloads/Music/New folder\\fawlin - follow you anywhere (official lyric video)_converted.mp3']' returned non-zero exit status 3165764104.
+ERROR:root:Konversi gagal: Command '['ffmpeg\\bin\\ffmpeg.exe', '-i', 'C:/Users/AmaHory/Downloads/Music/New folder/SLICA & Donna Tella - Loved By You (Lyrics).webm', '-vn', '-acodec', 'libmp3', 'C:/Users/AmaHory/Downloads/Music/New folder\\SLICA & Donna Tella - Loved By You (Lyrics)_converted.mp3']' returned non-zero exit status 3165764104.
+ERROR:root:Gagal mengambil informasi video: '>' not supported between instances of 'NoneType' and 'NoneType'
+ERROR:root:Gagal mengambil informasi video: '>' not supported between instances of 'NoneType' and 'NoneType'
+ERROR:root:Gagal memproses format: float() argument must be a string or a real number, not 'NoneType'
+ERROR:root:Konversi gagal: Command '['ffmpeg\\bin\\ffmpeg.exe', '-i', 'C:/Users/AmaHory/Downloads/Music/New folder/SABAI, Somna & RUNN - I Miss You [Official Lyric Video].webm', '-vn', '-acodec', 'libmp3', 'C:/Users/AmaHory/Downloads/Music/New folder\\SABAI, Somna & RUNN - I Miss You [Official Lyric Video]_converted.mp3']' returned non-zero exit status 3165764104.
+ERROR:root:Konversi gagal: Command '['ffmpeg\\bin\\ffmpeg.exe', '-i', 'C:/Users/AmaHory/Downloads/Music/New folder/SABAI, Somna & RUNN - I Miss You [Official Lyric Video].webm', '-vn', '-acodec', 'libmp3', 'C:/Users/AmaHory/Downloads/Music/New folder\\SABAI, Somna & RUNN - I Miss You [Official Lyric Video]_converted.mp3']' returned non-zero exit status 3165764104.
+ERROR:root:Konversi gagal: Command '['ffmpeg\\bin\\ffmpeg.exe', '-i', 'C:/Users/AmaHory/Downloads/Music/New folder/SABAI, Somna & RUNN - I Miss You [Official Lyric Video].webm', '-vn', '-acodec', 'libwav', 'C:/Users/AmaHory/Downloads/Music/New folder\\SABAI, Somna & RUNN - I Miss You [Official Lyric Video]_converted.wav']' returned non-zero exit status 3165764104.
+ERROR:root:Konversi gagal: Command '['ffmpeg\\bin\\ffmpeg.exe', '-i', 'C:/Users/AmaHory/Downloads/Music/New folder/SABAI, Somna & RUNN - I Miss You [Official Lyric Video].webm', '-vn', '-acodec', 'libmp3', 'C:/Users/AmaHory/Downloads/Music/New folder\\SABAI, Somna & RUNN - I Miss You [Official Lyric Video]_converted.mp3']' returned non-zero exit status 3165764104.
+ERROR:root:Konversi gagal: Command '['ffmpeg\\bin\\ffmpeg.exe', '-i', 'C:/Users/AmaHory/Downloads/Music/New folder/SABAI, Somna & RUNN - I Miss You [Official Lyric Video].webm', '-vn', '-acodec', 'libmp3', 'C:/Users/AmaHory/Downloads/Music/New folder\\SABAI, Somna & RUNN - I Miss You [Official Lyric Video]_converted.mp3']' returned non-zero exit status 3165764104.
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=VDk2fAbWuQ4hLMTZ: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=VDk2fAbWuQ4hLMTZ: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=VDk2fAbWuQ4hLMTZ: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=VDk2fAbWuQ4hLMTZ: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=VDk2fAbWuQ4hLMTZ: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: Format video tidak tersedia. Coba format lain atau periksa URL video.
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: Format video tidak tersedia. Coba format lain atau periksa URL video.
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: Format video tidak tersedia. Coba format lain atau periksa URL video.
+ERROR:root:Error saat mengambil informasi media: [0;31mERROR:[0m [youtube] iMeuqLR6smY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: [0;31mERROR:[0m [youtube] iMeuqLR6smY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: [0;31mERROR:[0m [youtube] iMeuqLR6smY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: 'dict' object has no attribute 'append'
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: 'dict' object has no attribute 'append'
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\AmaHory\\Downloads\\Video\\cookie\\SABAI, Somna & RUNN - I Miss You [Official Lyric Video].mp3' -> 'C:\\Users\\AmaHory\\Downloads\\Video\\cookie\\SABAI, Somna & RUNN - I Miss You [Official Lyric Video].mp3'
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: 'dict' object has no attribute 'append'
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: 'dict' object has no attribute 'append'
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: 'dict' object has no attribute 'append'
+ERROR:root:Gagal mengambil informasi video: Tidak ada format yang dapat diproses
+ERROR:root:Gagal mengambil informasi video: Tidak ada format yang dapat diproses
+ERROR:root:Gagal mengambil informasi video: Tidak ada format yang dapat diproses
+ERROR:root:Gagal mengambil informasi video: Tidak ada format yang dapat diproses
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: [0;31mERROR:[0m [youtube] iMeuqLR6smY: Requested format is not available. Use --list-formats for a list of available formats
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: [0;31mERROR:[0m [youtube] iMeuqLR6smY: Requested format is not available. Use --list-formats for a list of available formats
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: [0;31mERROR:[0m [youtube] iMeuqLR6smY: Requested format is not available. Use --list-formats for a list of available formats
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: '<' not supported between instances of 'NoneType' and 'int'
+ERROR:root:Gagal mengunduh https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: [0;31mERROR:[0m [youtube] iMeuqLR6smY: Requested format is not available. Use --list-formats for a list of available formats
+ERROR:root:Error downloading https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: name 'selected_type' is not defined
+ERROR:root:Error downloading https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: name 'selected_type' is not defined
+ERROR:root:Error downloading https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: name 'selected_type' is not defined
+ERROR:root:Error downloading https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: '<' not supported between instances of 'NoneType' and 'int'
+ERROR:root:Error downloading https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: 'dict' object has no attribute 'append'
+ERROR:root:Error downloading https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: 'dict' object has no attribute 'append'
+ERROR:root:Error downloading https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: 'dict' object has no attribute 'append'
+ERROR:root:Error downloading https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: 'dict' object has no attribute 'append'
+ERROR:root:Error downloading https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: 'dict' object has no attribute 'append'
+ERROR:root:Error downloading https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: 'dict' object has no attribute 'append'
+ERROR:root:Error in download thread: Invalid format specification: Unexpected "("
+	136 - 720p, 30fps (No Audio) (mp4, avc1.64001f, 53.5MB)
+	                                                                                                                  ^
+ERROR:root:Error downloading https://youtu.be/iMeuqLR6smY?si=C0puU98q-QVDdcJJ: 'dict' object has no attribute 'append'
+ERROR:root:Konversi gagal: FFmpeg error: ffmpeg version N-118896-g9f0970ee35-20250323 Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 14.2.0 (crosstool-NG 1.27.0.18_7458341)
+  configuration: --prefix=/ffbuild/prefix --pkg-config-flags=--static --pkg-config=pkg-config --cross-prefix=x86_64-w64-mingw32- --arch=x86_64 --target-os=mingw32 --enable-gpl --enable-version3 --disable-debug --enable-shared --disable-static --disable-w32threads --enable-pthreads --enable-iconv --enable-zlib --enable-libfreetype --enable-libfribidi --enable-gmp --enable-libxml2 --enable-lzma --enable-fontconfig --enable-libharfbuzz --enable-libvorbis --enable-opencl --disable-libpulse --enable-libvmaf --disable-libxcb --disable-xlib --enable-amf --enable-libaom --enable-libaribb24 --enable-avisynth --enable-chromaprint --enable-libdav1d --enable-libdavs2 --enable-libdvdread --enable-libdvdnav --disable-libfdk-aac --enable-ffnvcodec --enable-cuda-llvm --enable-frei0r --enable-libgme --enable-libkvazaar --enable-libaribcaption --enable-libass --enable-libbluray --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librist --enable-libssh --enable-libtheora --enable-libvpx --enable-libwebp --enable-libzmq --enable-lv2 --enable-libvpl --enable-openal --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopenmpt --enable-librav1e --enable-librubberband --enable-schannel --enable-sdl2 --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libsvtav1 --enable-libtwolame --enable-libuavs3d --disable-libdrm --enable-vaapi --enable-libvidstab --enable-vulkan --enable-libshaderc --enable-libplacebo --disable-libvvenc --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libzimg --enable-libzvbi --extra-cflags=-DLIBTWOLAME_STATIC --extra-cxxflags= --extra-libs=-lgomp --extra-ldflags=-pthread --extra-ldexeflags= --cc=x86_64-w64-mingw32-gcc --cxx=x86_64-w64-mingw32-g++ --ar=x86_64-w64-mingw32-gcc-ar --ranlib=x86_64-w64-mingw32-gcc-ranlib --nm=x86_64-w64-mingw32-gcc-nm --extra-version=20250323
+  libavutil      59. 60.100 / 59. 60.100
+  libavcodec     61. 33.102 / 61. 33.102
+  libavformat    61.  9.107 / 61.  9.107
+  libavdevice    61.  4.100 / 61.  4.100
+  libavfilter    10.  9.100 / 10.  9.100
+  libswscale      8. 13.103 /  8. 13.103
+  libswresample   5.  4.100 /  5.  4.100
+  libpostproc    58.  4.100 / 58.  4.100
+Input #0, matroska,webm, from 'C:/Users/AmaHory/Downloads/Video/cookie/SABAI, Somna & RUNN - I Miss You [Official Lyric Video].webm':
+  Metadata:
+    encoder         : google/video-file
+  Duration: 00:03:23.54, start: -0.007000, bitrate: 129 kb/s
+  Stream #0:0(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+[AVFormatContext @ 0000011dbf8b5940] Unable to choose an output format for 'C:/Users/AmaHory/Downloads/Video/'; use a standard extension for the filename or specify the format manually.
+[out#0 @ 0000011dbda422c0] Error initializing the muxer for C:/Users/AmaHory/Downloads/Video/: Invalid argument
+Error opening output file C:/Users/AmaHory/Downloads/Video/.
+Error opening output files: Invalid argument
+
+ERROR:root:Konversi gagal: FFmpeg error: ffmpeg version N-118896-g9f0970ee35-20250323 Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 14.2.0 (crosstool-NG 1.27.0.18_7458341)
+  configuration: --prefix=/ffbuild/prefix --pkg-config-flags=--static --pkg-config=pkg-config --cross-prefix=x86_64-w64-mingw32- --arch=x86_64 --target-os=mingw32 --enable-gpl --enable-version3 --disable-debug --enable-shared --disable-static --disable-w32threads --enable-pthreads --enable-iconv --enable-zlib --enable-libfreetype --enable-libfribidi --enable-gmp --enable-libxml2 --enable-lzma --enable-fontconfig --enable-libharfbuzz --enable-libvorbis --enable-opencl --disable-libpulse --enable-libvmaf --disable-libxcb --disable-xlib --enable-amf --enable-libaom --enable-libaribb24 --enable-avisynth --enable-chromaprint --enable-libdav1d --enable-libdavs2 --enable-libdvdread --enable-libdvdnav --disable-libfdk-aac --enable-ffnvcodec --enable-cuda-llvm --enable-frei0r --enable-libgme --enable-libkvazaar --enable-libaribcaption --enable-libass --enable-libbluray --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librist --enable-libssh --enable-libtheora --enable-libvpx --enable-libwebp --enable-libzmq --enable-lv2 --enable-libvpl --enable-openal --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopenmpt --enable-librav1e --enable-librubberband --enable-schannel --enable-sdl2 --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libsvtav1 --enable-libtwolame --enable-libuavs3d --disable-libdrm --enable-vaapi --enable-libvidstab --enable-vulkan --enable-libshaderc --enable-libplacebo --disable-libvvenc --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libzimg --enable-libzvbi --extra-cflags=-DLIBTWOLAME_STATIC --extra-cxxflags= --extra-libs=-lgomp --extra-ldflags=-pthread --extra-ldexeflags= --cc=x86_64-w64-mingw32-gcc --cxx=x86_64-w64-mingw32-g++ --ar=x86_64-w64-mingw32-gcc-ar --ranlib=x86_64-w64-mingw32-gcc-ranlib --nm=x86_64-w64-mingw32-gcc-nm --extra-version=20250323
+  libavutil      59. 60.100 / 59. 60.100
+  libavcodec     61. 33.102 / 61. 33.102
+  libavformat    61.  9.107 / 61.  9.107
+  libavdevice    61.  4.100 / 61.  4.100
+  libavfilter    10.  9.100 / 10.  9.100
+  libswscale      8. 13.103 /  8. 13.103
+  libswresample   5.  4.100 /  5.  4.100
+  libpostproc    58.  4.100 / 58.  4.100
+Input #0, matroska,webm, from 'C:/Users/AmaHory/Downloads/Video/cookie/SABAI, Somna & RUNN - I Miss You [Official Lyric Video].webm':
+  Metadata:
+    encoder         : google/video-file
+  Duration: 00:03:23.54, start: -0.007000, bitrate: 129 kb/s
+  Stream #0:0(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (opus (native) -> aac (native))
+Press [q] to stop, [?] for help
+[mp3 @ 0000016e48dfac40] Invalid audio stream. Exactly one MP3 audio stream is required.
+[out#0/mp3 @ 0000016e48d90400] Could not write header (incorrect codec parameters ?): Invalid argument
+[af#0:0 @ 0000016e48dae6c0] Error sending frames to consumers: Invalid argument
+[af#0:0 @ 0000016e48dae6c0] Task finished with error code: -22 (Invalid argument)
+[af#0:0 @ 0000016e48dae6c0] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp3 @ 0000016e48d90400] Nothing was written into output file, because at least one of its streams received no packets.
+size=       0KiB time=N/A bitrate=N/A speed=N/A    
+[aac @ 0000016e48dfc280] Qavg: nan
+Conversion failed!
+
+ERROR:root:Konversi gagal: FFmpeg error: ffmpeg version N-118896-g9f0970ee35-20250323 Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 14.2.0 (crosstool-NG 1.27.0.18_7458341)
+  configuration: --prefix=/ffbuild/prefix --pkg-config-flags=--static --pkg-config=pkg-config --cross-prefix=x86_64-w64-mingw32- --arch=x86_64 --target-os=mingw32 --enable-gpl --enable-version3 --disable-debug --enable-shared --disable-static --disable-w32threads --enable-pthreads --enable-iconv --enable-zlib --enable-libfreetype --enable-libfribidi --enable-gmp --enable-libxml2 --enable-lzma --enable-fontconfig --enable-libharfbuzz --enable-libvorbis --enable-opencl --disable-libpulse --enable-libvmaf --disable-libxcb --disable-xlib --enable-amf --enable-libaom --enable-libaribb24 --enable-avisynth --enable-chromaprint --enable-libdav1d --enable-libdavs2 --enable-libdvdread --enable-libdvdnav --disable-libfdk-aac --enable-ffnvcodec --enable-cuda-llvm --enable-frei0r --enable-libgme --enable-libkvazaar --enable-libaribcaption --enable-libass --enable-libbluray --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librist --enable-libssh --enable-libtheora --enable-libvpx --enable-libwebp --enable-libzmq --enable-lv2 --enable-libvpl --enable-openal --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopenmpt --enable-librav1e --enable-librubberband --enable-schannel --enable-sdl2 --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libsvtav1 --enable-libtwolame --enable-libuavs3d --disable-libdrm --enable-vaapi --enable-libvidstab --enable-vulkan --enable-libshaderc --enable-libplacebo --disable-libvvenc --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libzimg --enable-libzvbi --extra-cflags=-DLIBTWOLAME_STATIC --extra-cxxflags= --extra-libs=-lgomp --extra-ldflags=-pthread --extra-ldexeflags= --cc=x86_64-w64-mingw32-gcc --cxx=x86_64-w64-mingw32-g++ --ar=x86_64-w64-mingw32-gcc-ar --ranlib=x86_64-w64-mingw32-gcc-ranlib --nm=x86_64-w64-mingw32-gcc-nm --extra-version=20250323
+  libavutil      59. 60.100 / 59. 60.100
+  libavcodec     61. 33.102 / 61. 33.102
+  libavformat    61.  9.107 / 61.  9.107
+  libavdevice    61.  4.100 / 61.  4.100
+  libavfilter    10.  9.100 / 10.  9.100
+  libswscale      8. 13.103 /  8. 13.103
+  libswresample   5.  4.100 /  5.  4.100
+  libpostproc    58.  4.100 / 58.  4.100
+Input #0, matroska,webm, from 'C:/Users/AmaHory/Downloads/Video/cookie/SABAI, Somna & RUNN - I Miss You [Official Lyric Video].webm':
+  Metadata:
+    encoder         : google/video-file
+  Duration: 00:03:23.54, start: -0.007000, bitrate: 129 kb/s
+  Stream #0:0(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (opus (native) -> aac (native))
+Press [q] to stop, [?] for help
+[mp3 @ 000001d59cf29840] Invalid audio stream. Exactly one MP3 audio stream is required.
+[out#0/mp3 @ 000001d59cec17c0] Could not write header (incorrect codec parameters ?): Invalid argument
+[af#0:0 @ 000001d59cef4740] Error sending frames to consumers: Invalid argument
+[af#0:0 @ 000001d59cef4740] Task finished with error code: -22 (Invalid argument)
+[af#0:0 @ 000001d59cef4740] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp3 @ 000001d59cec17c0] Nothing was written into output file, because at least one of its streams received no packets.
+size=       0KiB time=N/A bitrate=N/A speed=N/A    
+[aac @ 000001d59cf2ae00] Qavg: nan
+Conversion failed!
+
+ERROR:root:Konversi gagal: FFmpeg error: ffmpeg version N-118896-g9f0970ee35-20250323 Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 14.2.0 (crosstool-NG 1.27.0.18_7458341)
+  configuration: --prefix=/ffbuild/prefix --pkg-config-flags=--static --pkg-config=pkg-config --cross-prefix=x86_64-w64-mingw32- --arch=x86_64 --target-os=mingw32 --enable-gpl --enable-version3 --disable-debug --enable-shared --disable-static --disable-w32threads --enable-pthreads --enable-iconv --enable-zlib --enable-libfreetype --enable-libfribidi --enable-gmp --enable-libxml2 --enable-lzma --enable-fontconfig --enable-libharfbuzz --enable-libvorbis --enable-opencl --disable-libpulse --enable-libvmaf --disable-libxcb --disable-xlib --enable-amf --enable-libaom --enable-libaribb24 --enable-avisynth --enable-chromaprint --enable-libdav1d --enable-libdavs2 --enable-libdvdread --enable-libdvdnav --disable-libfdk-aac --enable-ffnvcodec --enable-cuda-llvm --enable-frei0r --enable-libgme --enable-libkvazaar --enable-libaribcaption --enable-libass --enable-libbluray --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librist --enable-libssh --enable-libtheora --enable-libvpx --enable-libwebp --enable-libzmq --enable-lv2 --enable-libvpl --enable-openal --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopenmpt --enable-librav1e --enable-librubberband --enable-schannel --enable-sdl2 --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libsvtav1 --enable-libtwolame --enable-libuavs3d --disable-libdrm --enable-vaapi --enable-libvidstab --enable-vulkan --enable-libshaderc --enable-libplacebo --disable-libvvenc --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libzimg --enable-libzvbi --extra-cflags=-DLIBTWOLAME_STATIC --extra-cxxflags= --extra-libs=-lgomp --extra-ldflags=-pthread --extra-ldexeflags= --cc=x86_64-w64-mingw32-gcc --cxx=x86_64-w64-mingw32-g++ --ar=x86_64-w64-mingw32-gcc-ar --ranlib=x86_64-w64-mingw32-gcc-ranlib --nm=x86_64-w64-mingw32-gcc-nm --extra-version=20250323
+  libavutil      59. 60.100 / 59. 60.100
+  libavcodec     61. 33.102 / 61. 33.102
+  libavformat    61.  9.107 / 61.  9.107
+  libavdevice    61.  4.100 / 61.  4.100
+  libavfilter    10.  9.100 / 10.  9.100
+  libswscale      8. 13.103 /  8. 13.103
+  libswresample   5.  4.100 /  5.  4.100
+  libpostproc    58.  4.100 / 58.  4.100
+Input #0, matroska,webm, from 'C:/Users/AmaHory/Downloads/Video/cookie/SABAI, Somna & RUNN - I Miss You [Official Lyric Video].webm':
+  Metadata:
+    encoder         : google/video-file
+  Duration: 00:03:23.54, start: -0.007000, bitrate: 129 kb/s
+  Stream #0:0(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (opus (native) -> aac (native))
+Press [q] to stop, [?] for help
+[mp3 @ 000002a48bfb8040] Invalid audio stream. Exactly one MP3 audio stream is required.
+[out#0/mp3 @ 000002a48bf60c00] Could not write header (incorrect codec parameters ?): Invalid argument
+[af#0:0 @ 000002a48bf4ffc0] Error sending frames to consumers: Invalid argument
+[af#0:0 @ 000002a48bf4ffc0] Task finished with error code: -22 (Invalid argument)
+[af#0:0 @ 000002a48bf4ffc0] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp3 @ 000002a48bf60c00] Nothing was written into output file, because at least one of its streams received no packets.
+size=       0KiB time=N/A bitrate=N/A speed=N/A    
+[aac @ 000002a48d847780] Qavg: nan
+Conversion failed!
+
+ERROR:root:Konversi gagal: FFmpeg error: ffmpeg version N-118896-g9f0970ee35-20250323 Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 14.2.0 (crosstool-NG 1.27.0.18_7458341)
+  configuration: --prefix=/ffbuild/prefix --pkg-config-flags=--static --pkg-config=pkg-config --cross-prefix=x86_64-w64-mingw32- --arch=x86_64 --target-os=mingw32 --enable-gpl --enable-version3 --disable-debug --enable-shared --disable-static --disable-w32threads --enable-pthreads --enable-iconv --enable-zlib --enable-libfreetype --enable-libfribidi --enable-gmp --enable-libxml2 --enable-lzma --enable-fontconfig --enable-libharfbuzz --enable-libvorbis --enable-opencl --disable-libpulse --enable-libvmaf --disable-libxcb --disable-xlib --enable-amf --enable-libaom --enable-libaribb24 --enable-avisynth --enable-chromaprint --enable-libdav1d --enable-libdavs2 --enable-libdvdread --enable-libdvdnav --disable-libfdk-aac --enable-ffnvcodec --enable-cuda-llvm --enable-frei0r --enable-libgme --enable-libkvazaar --enable-libaribcaption --enable-libass --enable-libbluray --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librist --enable-libssh --enable-libtheora --enable-libvpx --enable-libwebp --enable-libzmq --enable-lv2 --enable-libvpl --enable-openal --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopenmpt --enable-librav1e --enable-librubberband --enable-schannel --enable-sdl2 --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libsvtav1 --enable-libtwolame --enable-libuavs3d --disable-libdrm --enable-vaapi --enable-libvidstab --enable-vulkan --enable-libshaderc --enable-libplacebo --disable-libvvenc --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libzimg --enable-libzvbi --extra-cflags=-DLIBTWOLAME_STATIC --extra-cxxflags= --extra-libs=-lgomp --extra-ldflags=-pthread --extra-ldexeflags= --cc=x86_64-w64-mingw32-gcc --cxx=x86_64-w64-mingw32-g++ --ar=x86_64-w64-mingw32-gcc-ar --ranlib=x86_64-w64-mingw32-gcc-ranlib --nm=x86_64-w64-mingw32-gcc-nm --extra-version=20250323
+  libavutil      59. 60.100 / 59. 60.100
+  libavcodec     61. 33.102 / 61. 33.102
+  libavformat    61.  9.107 / 61.  9.107
+  libavdevice    61.  4.100 / 61.  4.100
+  libavfilter    10.  9.100 / 10.  9.100
+  libswscale      8. 13.103 /  8. 13.103
+  libswresample   5.  4.100 /  5.  4.100
+  libpostproc    58.  4.100 / 58.  4.100
+Input #0, matroska,webm, from 'C:/Users/AmaHory/Downloads/Video/cookie/SABAI, Somna & RUNN - I Miss You [Official Lyric Video].webm':
+  Metadata:
+    encoder         : google/video-file
+  Duration: 00:03:23.54, start: -0.007000, bitrate: 129 kb/s
+  Stream #0:0(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (opus (native) -> aac (native))
+Press [q] to stop, [?] for help
+[mp3 @ 000001d26e068600] Invalid audio stream. Exactly one MP3 audio stream is required.
+[out#0/mp3 @ 000001d26dfff700] Could not write header (incorrect codec parameters ?): Invalid argument
+[af#0:0 @ 000001d26e031440] Error sending frames to consumers: Invalid argument
+[af#0:0 @ 000001d26e031440] Task finished with error code: -22 (Invalid argument)
+[af#0:0 @ 000001d26e031440] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp3 @ 000001d26dfff700] Nothing was written into output file, because at least one of its streams received no packets.
+size=       0KiB time=N/A bitrate=N/A speed=N/A    
+[aac @ 000001d26e06a200] Qavg: nan
+Conversion failed!
+
+ERROR:root:Konversi gagal: FFmpeg error: ffmpeg version N-118896-g9f0970ee35-20250323 Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 14.2.0 (crosstool-NG 1.27.0.18_7458341)
+  configuration: --prefix=/ffbuild/prefix --pkg-config-flags=--static --pkg-config=pkg-config --cross-prefix=x86_64-w64-mingw32- --arch=x86_64 --target-os=mingw32 --enable-gpl --enable-version3 --disable-debug --enable-shared --disable-static --disable-w32threads --enable-pthreads --enable-iconv --enable-zlib --enable-libfreetype --enable-libfribidi --enable-gmp --enable-libxml2 --enable-lzma --enable-fontconfig --enable-libharfbuzz --enable-libvorbis --enable-opencl --disable-libpulse --enable-libvmaf --disable-libxcb --disable-xlib --enable-amf --enable-libaom --enable-libaribb24 --enable-avisynth --enable-chromaprint --enable-libdav1d --enable-libdavs2 --enable-libdvdread --enable-libdvdnav --disable-libfdk-aac --enable-ffnvcodec --enable-cuda-llvm --enable-frei0r --enable-libgme --enable-libkvazaar --enable-libaribcaption --enable-libass --enable-libbluray --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librist --enable-libssh --enable-libtheora --enable-libvpx --enable-libwebp --enable-libzmq --enable-lv2 --enable-libvpl --enable-openal --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopenmpt --enable-librav1e --enable-librubberband --enable-schannel --enable-sdl2 --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libsvtav1 --enable-libtwolame --enable-libuavs3d --disable-libdrm --enable-vaapi --enable-libvidstab --enable-vulkan --enable-libshaderc --enable-libplacebo --disable-libvvenc --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libzimg --enable-libzvbi --extra-cflags=-DLIBTWOLAME_STATIC --extra-cxxflags= --extra-libs=-lgomp --extra-ldflags=-pthread --extra-ldexeflags= --cc=x86_64-w64-mingw32-gcc --cxx=x86_64-w64-mingw32-g++ --ar=x86_64-w64-mingw32-gcc-ar --ranlib=x86_64-w64-mingw32-gcc-ranlib --nm=x86_64-w64-mingw32-gcc-nm --extra-version=20250323
+  libavutil      59. 60.100 / 59. 60.100
+  libavcodec     61. 33.102 / 61. 33.102
+  libavformat    61.  9.107 / 61.  9.107
+  libavdevice    61.  4.100 / 61.  4.100
+  libavfilter    10.  9.100 / 10.  9.100
+  libswscale      8. 13.103 /  8. 13.103
+  libswresample   5.  4.100 /  5.  4.100
+  libpostproc    58.  4.100 / 58.  4.100
+Input #0, matroska,webm, from 'C:/Users/AmaHory/Downloads/Video/cookie/SABAI, Somna & RUNN - I Miss You [Official Lyric Video].webm':
+  Metadata:
+    encoder         : google/video-file
+  Duration: 00:03:23.54, start: -0.007000, bitrate: 129 kb/s
+  Stream #0:0(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (opus (native) -> aac (native))
+Press [q] to stop, [?] for help
+[mp3 @ 000002d1e3c36a40] Invalid audio stream. Exactly one MP3 audio stream is required.
+[out#0/mp3 @ 000002d1e3bd1040] Could not write header (incorrect codec parameters ?): Invalid argument
+[af#0:0 @ 000002d1e3b7ddc0] Error sending frames to consumers: Invalid argument
+[af#0:0 @ 000002d1e3b7ddc0] Task finished with error code: -22 (Invalid argument)
+[af#0:0 @ 000002d1e3b7ddc0] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp3 @ 000002d1e3bd1040] Nothing was written into output file, because at least one of its streams received no packets.
+size=       0KiB time=N/A bitrate=N/A speed=N/A    
+[aac @ 000002d1e3c38080] Qavg: nan
+Conversion failed!
+
+ERROR:root:Conversion error: FFmpeg error: ffmpeg version N-118896-g9f0970ee35-20250323 Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 14.2.0 (crosstool-NG 1.27.0.18_7458341)
+  configuration: --prefix=/ffbuild/prefix --pkg-config-flags=--static --pkg-config=pkg-config --cross-prefix=x86_64-w64-mingw32- --arch=x86_64 --target-os=mingw32 --enable-gpl --enable-version3 --disable-debug --enable-shared --disable-static --disable-w32threads --enable-pthreads --enable-iconv --enable-zlib --enable-libfreetype --enable-libfribidi --enable-gmp --enable-libxml2 --enable-lzma --enable-fontconfig --enable-libharfbuzz --enable-libvorbis --enable-opencl --disable-libpulse --enable-libvmaf --disable-libxcb --disable-xlib --enable-amf --enable-libaom --enable-libaribb24 --enable-avisynth --enable-chromaprint --enable-libdav1d --enable-libdavs2 --enable-libdvdread --enable-libdvdnav --disable-libfdk-aac --enable-ffnvcodec --enable-cuda-llvm --enable-frei0r --enable-libgme --enable-libkvazaar --enable-libaribcaption --enable-libass --enable-libbluray --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librist --enable-libssh --enable-libtheora --enable-libvpx --enable-libwebp --enable-libzmq --enable-lv2 --enable-libvpl --enable-openal --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopenmpt --enable-librav1e --enable-librubberband --enable-schannel --enable-sdl2 --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libsvtav1 --enable-libtwolame --enable-libuavs3d --disable-libdrm --enable-vaapi --enable-libvidstab --enable-vulkan --enable-libshaderc --enable-libplacebo --disable-libvvenc --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libzimg --enable-libzvbi --extra-cflags=-DLIBTWOLAME_STATIC --extra-cxxflags= --extra-libs=-lgomp --extra-ldflags=-pthread --extra-ldexeflags= --cc=x86_64-w64-mingw32-gcc --cxx=x86_64-w64-mingw32-g++ --ar=x86_64-w64-mingw32-gcc-ar --ranlib=x86_64-w64-mingw32-gcc-ranlib --nm=x86_64-w64-mingw32-gcc-nm --extra-version=20250323
+  libavutil      59. 60.100 / 59. 60.100
+  libavcodec     61. 33.102 / 61. 33.102
+  libavformat    61.  9.107 / 61.  9.107
+  libavdevice    61.  4.100 / 61.  4.100
+  libavfilter    10.  9.100 / 10.  9.100
+  libswscale      8. 13.103 /  8. 13.103
+  libswresample   5.  4.100 /  5.  4.100
+  libpostproc    58.  4.100 / 58.  4.100
+Input #0, matroska,webm, from 'C:/Users/AmaHory/Downloads/Video/cookie/Owl City - Fireflies (Said The Sky Remix).webm':
+  Metadata:
+    encoder         : google/video-file
+  Duration: 00:05:24.02, start: -0.007000, bitrate: 134 kb/s
+  Stream #0:0(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+[AVFormatContext @ 00000282d7f55700] Unable to choose an output format for 'C:/Users/AmaHory/Downloads/Video/cookie'; use a standard extension for the filename or specify the format manually.
+[out#0 @ 00000282d7faf040] Error initializing the muxer for C:/Users/AmaHory/Downloads/Video/cookie: Invalid argument
+Error opening output file C:/Users/AmaHory/Downloads/Video/cookie.
+Error opening output files: Invalid argument
+
+[2025-04-22 22:22:15] ERROR: Error downloading https://youtu.be/LJelMR8YtF8?si=arYt-CTdYPXgJ1Ju: name '_progress_hook' is not defined
+[2025-04-22 22:22:25] ERROR: Download error: name '_progress_hook' is not defined
+[2025-04-22 22:24:22] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:22] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:22] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:22] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:22] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:22] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:22] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:22] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:22] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:22] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:22] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:23] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Download error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Download error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Download error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Download error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Download error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Download error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Download error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Download error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Download error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Download error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:24] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+[2025-04-22 22:24:25] ERROR: Progress hook error: Unknown format code 'd' for object of type 'float'
+ERROR:root:Conversion error: FFmpeg error: ffmpeg version N-118896-g9f0970ee35-20250323 Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 14.2.0 (crosstool-NG 1.27.0.18_7458341)
+  configuration: --prefix=/ffbuild/prefix --pkg-config-flags=--static --pkg-config=pkg-config --cross-prefix=x86_64-w64-mingw32- --arch=x86_64 --target-os=mingw32 --enable-gpl --enable-version3 --disable-debug --enable-shared --disable-static --disable-w32threads --enable-pthreads --enable-iconv --enable-zlib --enable-libfreetype --enable-libfribidi --enable-gmp --enable-libxml2 --enable-lzma --enable-fontconfig --enable-libharfbuzz --enable-libvorbis --enable-opencl --disable-libpulse --enable-libvmaf --disable-libxcb --disable-xlib --enable-amf --enable-libaom --enable-libaribb24 --enable-avisynth --enable-chromaprint --enable-libdav1d --enable-libdavs2 --enable-libdvdread --enable-libdvdnav --disable-libfdk-aac --enable-ffnvcodec --enable-cuda-llvm --enable-frei0r --enable-libgme --enable-libkvazaar --enable-libaribcaption --enable-libass --enable-libbluray --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librist --enable-libssh --enable-libtheora --enable-libvpx --enable-libwebp --enable-libzmq --enable-lv2 --enable-libvpl --enable-openal --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopenmpt --enable-librav1e --enable-librubberband --enable-schannel --enable-sdl2 --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libsvtav1 --enable-libtwolame --enable-libuavs3d --disable-libdrm --enable-vaapi --enable-libvidstab --enable-vulkan --enable-libshaderc --enable-libplacebo --disable-libvvenc --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libzimg --enable-libzvbi --extra-cflags=-DLIBTWOLAME_STATIC --extra-cxxflags= --extra-libs=-lgomp --extra-ldflags=-pthread --extra-ldexeflags= --cc=x86_64-w64-mingw32-gcc --cxx=x86_64-w64-mingw32-g++ --ar=x86_64-w64-mingw32-gcc-ar --ranlib=x86_64-w64-mingw32-gcc-ranlib --nm=x86_64-w64-mingw32-gcc-nm --extra-version=20250323
+  libavutil      59. 60.100 / 59. 60.100
+  libavcodec     61. 33.102 / 61. 33.102
+  libavformat    61.  9.107 / 61.  9.107
+  libavdevice    61.  4.100 / 61.  4.100
+  libavfilter    10.  9.100 / 10.  9.100
+  libswscale      8. 13.103 /  8. 13.103
+  libswresample   5.  4.100 /  5.  4.100
+  libpostproc    58.  4.100 / 58.  4.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:02:42.70, start: 0.000000, bitrate: 208 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 206 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+Output #0, mp3, to 'C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp3':
+[out#0/mp3 @ 000002ec0721ebc0] Output file does not contain any stream
+Error opening output file C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp3.
+Error opening output files: Invalid argument
+
+[2025-04-23 15:03:51] ERROR: Convert error: Conversion error: FFmpeg error: ffmpeg version N-118896-g9f0970ee35-20250323 Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 14.2.0 (crosstool-NG 1.27.0.18_7458341)
+  configuration: --prefix=/ffbuild/prefix --pkg-config-flags=--static --pkg-config=pkg-config --cross-prefix=x86_64-w64-mingw32- --arch=x86_64 --target-os=mingw32 --enable-gpl --enable-version3 --disable-debug --enable-shared --disable-static --disable-w32threads --enable-pthreads --enable-iconv --enable-zlib --enable-libfreetype --enable-libfribidi --enable-gmp --enable-libxml2 --enable-lzma --enable-fontconfig --enable-libharfbuzz --enable-libvorbis --enable-opencl --disable-libpulse --enable-libvmaf --disable-libxcb --disable-xlib --enable-amf --enable-libaom --enable-libaribb24 --enable-avisynth --enable-chromaprint --enable-libdav1d --enable-libdavs2 --enable-libdvdread --enable-libdvdnav --disable-libfdk-aac --enable-ffnvcodec --enable-cuda-llvm --enable-frei0r --enable-libgme --enable-libkvazaar --enable-libaribcaption --enable-libass --enable-libbluray --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librist --enable-libssh --enable-libtheora --enable-libvpx --enable-libwebp --enable-libzmq --enable-lv2 --enable-libvpl --enable-openal --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopenmpt --enable-librav1e --enable-librubberband --enable-schannel --enable-sdl2 --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libsvtav1 --enable-libtwolame --enable-libuavs3d --disable-libdrm --enable-vaapi --enable-libvidstab --enable-vulkan --enable-libshaderc --enable-libplacebo --disable-libvvenc --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libzimg --enable-libzvbi --extra-cflags=-DLIBTWOLAME_STATIC --extra-cxxflags= --extra-libs=-lgomp --extra-ldflags=-pthread --extra-ldexeflags= --cc=x86_64-w64-mingw32-gcc --cxx=x86_64-w64-mingw32-g++ --ar=x86_64-w64-mingw32-gcc-ar --ranlib=x86_64-w64-mingw32-gcc-ranlib --nm=x86_64-w64-mingw32-gcc-nm --extra-version=20250323
+  libavutil      59. 60.100 / 59. 60.100
+  libavcodec     61. 33.102 / 61. 33.102
+  libavformat    61.  9.107 / 61.  9.107
+  libavdevice    61.  4.100 / 61.  4.100
+  libavfilter    10.  9.100 / 10.  9.100
+  libswscale      8. 13.103 /  8. 13.103
+  libswresample   5.  4.100 /  5.  4.100
+  libpostproc    58.  4.100 / 58.  4.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:02:42.70, start: 0.000000, bitrate: 208 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 206 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+Output #0, mp3, to 'C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp3':
+[out#0/mp3 @ 000002ec0721ebc0] Output file does not contain any stream
+Error opening output file C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp3.
+Error opening output files: Invalid argument
+
+ERROR:root:Conversion error: FFmpeg error: ffmpeg version N-118896-g9f0970ee35-20250323 Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 14.2.0 (crosstool-NG 1.27.0.18_7458341)
+  configuration: --prefix=/ffbuild/prefix --pkg-config-flags=--static --pkg-config=pkg-config --cross-prefix=x86_64-w64-mingw32- --arch=x86_64 --target-os=mingw32 --enable-gpl --enable-version3 --disable-debug --enable-shared --disable-static --disable-w32threads --enable-pthreads --enable-iconv --enable-zlib --enable-libfreetype --enable-libfribidi --enable-gmp --enable-libxml2 --enable-lzma --enable-fontconfig --enable-libharfbuzz --enable-libvorbis --enable-opencl --disable-libpulse --enable-libvmaf --disable-libxcb --disable-xlib --enable-amf --enable-libaom --enable-libaribb24 --enable-avisynth --enable-chromaprint --enable-libdav1d --enable-libdavs2 --enable-libdvdread --enable-libdvdnav --disable-libfdk-aac --enable-ffnvcodec --enable-cuda-llvm --enable-frei0r --enable-libgme --enable-libkvazaar --enable-libaribcaption --enable-libass --enable-libbluray --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librist --enable-libssh --enable-libtheora --enable-libvpx --enable-libwebp --enable-libzmq --enable-lv2 --enable-libvpl --enable-openal --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopenmpt --enable-librav1e --enable-librubberband --enable-schannel --enable-sdl2 --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libsvtav1 --enable-libtwolame --enable-libuavs3d --disable-libdrm --enable-vaapi --enable-libvidstab --enable-vulkan --enable-libshaderc --enable-libplacebo --disable-libvvenc --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libzimg --enable-libzvbi --extra-cflags=-DLIBTWOLAME_STATIC --extra-cxxflags= --extra-libs=-lgomp --extra-ldflags=-pthread --extra-ldexeflags= --cc=x86_64-w64-mingw32-gcc --cxx=x86_64-w64-mingw32-g++ --ar=x86_64-w64-mingw32-gcc-ar --ranlib=x86_64-w64-mingw32-gcc-ranlib --nm=x86_64-w64-mingw32-gcc-nm --extra-version=20250323
+  libavutil      59. 60.100 / 59. 60.100
+  libavcodec     61. 33.102 / 61. 33.102
+  libavformat    61.  9.107 / 61.  9.107
+  libavdevice    61.  4.100 / 61.  4.100
+  libavfilter    10.  9.100 / 10.  9.100
+  libswscale      8. 13.103 /  8. 13.103
+  libswresample   5.  4.100 /  5.  4.100
+  libpostproc    58.  4.100 / 58.  4.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:02:42.70, start: 0.000000, bitrate: 208 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 206 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+Output #0, mp3, to 'C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp3':
+[out#0/mp3 @ 0000017cbbaf1a80] Output file does not contain any stream
+Error opening output file C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp3.
+Error opening output files: Invalid argument
+
+[2025-04-23 15:04:09] ERROR: Convert error: Conversion error: FFmpeg error: ffmpeg version N-118896-g9f0970ee35-20250323 Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 14.2.0 (crosstool-NG 1.27.0.18_7458341)
+  configuration: --prefix=/ffbuild/prefix --pkg-config-flags=--static --pkg-config=pkg-config --cross-prefix=x86_64-w64-mingw32- --arch=x86_64 --target-os=mingw32 --enable-gpl --enable-version3 --disable-debug --enable-shared --disable-static --disable-w32threads --enable-pthreads --enable-iconv --enable-zlib --enable-libfreetype --enable-libfribidi --enable-gmp --enable-libxml2 --enable-lzma --enable-fontconfig --enable-libharfbuzz --enable-libvorbis --enable-opencl --disable-libpulse --enable-libvmaf --disable-libxcb --disable-xlib --enable-amf --enable-libaom --enable-libaribb24 --enable-avisynth --enable-chromaprint --enable-libdav1d --enable-libdavs2 --enable-libdvdread --enable-libdvdnav --disable-libfdk-aac --enable-ffnvcodec --enable-cuda-llvm --enable-frei0r --enable-libgme --enable-libkvazaar --enable-libaribcaption --enable-libass --enable-libbluray --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librist --enable-libssh --enable-libtheora --enable-libvpx --enable-libwebp --enable-libzmq --enable-lv2 --enable-libvpl --enable-openal --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopenmpt --enable-librav1e --enable-librubberband --enable-schannel --enable-sdl2 --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libsvtav1 --enable-libtwolame --enable-libuavs3d --disable-libdrm --enable-vaapi --enable-libvidstab --enable-vulkan --enable-libshaderc --enable-libplacebo --disable-libvvenc --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libzimg --enable-libzvbi --extra-cflags=-DLIBTWOLAME_STATIC --extra-cxxflags= --extra-libs=-lgomp --extra-ldflags=-pthread --extra-ldexeflags= --cc=x86_64-w64-mingw32-gcc --cxx=x86_64-w64-mingw32-g++ --ar=x86_64-w64-mingw32-gcc-ar --ranlib=x86_64-w64-mingw32-gcc-ranlib --nm=x86_64-w64-mingw32-gcc-nm --extra-version=20250323
+  libavutil      59. 60.100 / 59. 60.100
+  libavcodec     61. 33.102 / 61. 33.102
+  libavformat    61.  9.107 / 61.  9.107
+  libavdevice    61.  4.100 / 61.  4.100
+  libavfilter    10.  9.100 / 10.  9.100
+  libswscale      8. 13.103 /  8. 13.103
+  libswresample   5.  4.100 /  5.  4.100
+  libpostproc    58.  4.100 / 58.  4.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:02:42.70, start: 0.000000, bitrate: 208 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 206 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+Output #0, mp3, to 'C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp3':
+[out#0/mp3 @ 0000017cbbaf1a80] Output file does not contain any stream
+Error opening output file C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp3.
+Error opening output files: Invalid argument
+
+ERROR:root:Conversion error: FFmpeg error: ffmpeg version N-118896-g9f0970ee35-20250323 Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 14.2.0 (crosstool-NG 1.27.0.18_7458341)
+  configuration: --prefix=/ffbuild/prefix --pkg-config-flags=--static --pkg-config=pkg-config --cross-prefix=x86_64-w64-mingw32- --arch=x86_64 --target-os=mingw32 --enable-gpl --enable-version3 --disable-debug --enable-shared --disable-static --disable-w32threads --enable-pthreads --enable-iconv --enable-zlib --enable-libfreetype --enable-libfribidi --enable-gmp --enable-libxml2 --enable-lzma --enable-fontconfig --enable-libharfbuzz --enable-libvorbis --enable-opencl --disable-libpulse --enable-libvmaf --disable-libxcb --disable-xlib --enable-amf --enable-libaom --enable-libaribb24 --enable-avisynth --enable-chromaprint --enable-libdav1d --enable-libdavs2 --enable-libdvdread --enable-libdvdnav --disable-libfdk-aac --enable-ffnvcodec --enable-cuda-llvm --enable-frei0r --enable-libgme --enable-libkvazaar --enable-libaribcaption --enable-libass --enable-libbluray --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librist --enable-libssh --enable-libtheora --enable-libvpx --enable-libwebp --enable-libzmq --enable-lv2 --enable-libvpl --enable-openal --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopenmpt --enable-librav1e --enable-librubberband --enable-schannel --enable-sdl2 --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libsvtav1 --enable-libtwolame --enable-libuavs3d --disable-libdrm --enable-vaapi --enable-libvidstab --enable-vulkan --enable-libshaderc --enable-libplacebo --disable-libvvenc --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libzimg --enable-libzvbi --extra-cflags=-DLIBTWOLAME_STATIC --extra-cxxflags= --extra-libs=-lgomp --extra-ldflags=-pthread --extra-ldexeflags= --cc=x86_64-w64-mingw32-gcc --cxx=x86_64-w64-mingw32-g++ --ar=x86_64-w64-mingw32-gcc-ar --ranlib=x86_64-w64-mingw32-gcc-ranlib --nm=x86_64-w64-mingw32-gcc-nm --extra-version=20250323
+  libavutil      59. 60.100 / 59. 60.100
+  libavcodec     61. 33.102 / 61. 33.102
+  libavformat    61.  9.107 / 61.  9.107
+  libavdevice    61.  4.100 / 61.  4.100
+  libavfilter    10.  9.100 / 10.  9.100
+  libswscale      8. 13.103 /  8. 13.103
+  libswresample   5.  4.100 /  5.  4.100
+  libpostproc    58.  4.100 / 58.  4.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:02:42.70, start: 0.000000, bitrate: 208 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 206 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+Output #0, mp3, to 'C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp3':
+[out#0/mp3 @ 0000017db119fc80] Output file does not contain any stream
+Error opening output file C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp3.
+Error opening output files: Invalid argument
+
+[2025-04-23 15:04:14] ERROR: Convert error: Conversion error: FFmpeg error: ffmpeg version N-118896-g9f0970ee35-20250323 Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 14.2.0 (crosstool-NG 1.27.0.18_7458341)
+  configuration: --prefix=/ffbuild/prefix --pkg-config-flags=--static --pkg-config=pkg-config --cross-prefix=x86_64-w64-mingw32- --arch=x86_64 --target-os=mingw32 --enable-gpl --enable-version3 --disable-debug --enable-shared --disable-static --disable-w32threads --enable-pthreads --enable-iconv --enable-zlib --enable-libfreetype --enable-libfribidi --enable-gmp --enable-libxml2 --enable-lzma --enable-fontconfig --enable-libharfbuzz --enable-libvorbis --enable-opencl --disable-libpulse --enable-libvmaf --disable-libxcb --disable-xlib --enable-amf --enable-libaom --enable-libaribb24 --enable-avisynth --enable-chromaprint --enable-libdav1d --enable-libdavs2 --enable-libdvdread --enable-libdvdnav --disable-libfdk-aac --enable-ffnvcodec --enable-cuda-llvm --enable-frei0r --enable-libgme --enable-libkvazaar --enable-libaribcaption --enable-libass --enable-libbluray --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librist --enable-libssh --enable-libtheora --enable-libvpx --enable-libwebp --enable-libzmq --enable-lv2 --enable-libvpl --enable-openal --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopenmpt --enable-librav1e --enable-librubberband --enable-schannel --enable-sdl2 --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libsvtav1 --enable-libtwolame --enable-libuavs3d --disable-libdrm --enable-vaapi --enable-libvidstab --enable-vulkan --enable-libshaderc --enable-libplacebo --disable-libvvenc --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libzimg --enable-libzvbi --extra-cflags=-DLIBTWOLAME_STATIC --extra-cxxflags= --extra-libs=-lgomp --extra-ldflags=-pthread --extra-ldexeflags= --cc=x86_64-w64-mingw32-gcc --cxx=x86_64-w64-mingw32-g++ --ar=x86_64-w64-mingw32-gcc-ar --ranlib=x86_64-w64-mingw32-gcc-ranlib --nm=x86_64-w64-mingw32-gcc-nm --extra-version=20250323
+  libavutil      59. 60.100 / 59. 60.100
+  libavcodec     61. 33.102 / 61. 33.102
+  libavformat    61.  9.107 / 61.  9.107
+  libavdevice    61.  4.100 / 61.  4.100
+  libavfilter    10.  9.100 / 10.  9.100
+  libswscale      8. 13.103 /  8. 13.103
+  libswresample   5.  4.100 /  5.  4.100
+  libpostproc    58.  4.100 / 58.  4.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:02:42.70, start: 0.000000, bitrate: 208 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 206 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+Output #0, mp3, to 'C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp3':
+[out#0/mp3 @ 0000017db119fc80] Output file does not contain any stream
+Error opening output file C:\Users\AmaHory\Downloads\Music\RUNN - Misery.mp3.
+Error opening output files: Invalid argument
+
+[2025-05-01 08:48:58] ERROR: Error fetching formats: '>' not supported between instances of 'NoneType' and 'int'
+[2025-05-01 08:49:05] ERROR: Error fetching formats: '>' not supported between instances of 'NoneType' and 'int'
